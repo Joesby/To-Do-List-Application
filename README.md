@@ -1,0 +1,1 @@
+This code is for the Module 2 Mini Project: To-Do List Application.
